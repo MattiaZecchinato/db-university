@@ -22,3 +22,7 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 ## Entities
 
 ![Entities](img-readme/db-university-entities.png)
+
+## Final Work
+
+![Entities](img-readme/db-university-updated-relationships.png)
