@@ -18,3 +18,7 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 ## Relationship between entities
 
 ![Relationship between entities](img-readme/db-university-relationships.png)
+
+## Entities
+
+![Entities](img-readme/db-university-entities.png)
